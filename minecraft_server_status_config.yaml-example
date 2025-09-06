@@ -1,0 +1,8 @@
+mc_server_url: server.example
+mc_server_rcon_port: 25575
+rcon_passwd: password
+email_from: mail@example.com
+email_to: mail@example.com
+smtp_server: smtp.example.com
+smtp_user: mail@example.com
+smtp_passwd: password
